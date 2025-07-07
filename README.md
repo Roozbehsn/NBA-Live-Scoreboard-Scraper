@@ -71,8 +71,6 @@ To run the live scoreboard:
 python NBA.py
 ```
 
-The script will fetch and display the live scores, refreshing at a set interval (e.g., every 10-15 seconds). You can stop the script by pressing `Ctrl+C`.
-
 **Example Output:**
 
 ```
