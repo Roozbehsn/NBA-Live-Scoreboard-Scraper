@@ -5,15 +5,15 @@ This project provides a Python-based solution for **scraping live NBA game score
 -----
 
 ## Table of Contents
+  * [Features](#features)
+  * [Motivation](#motivation)
+  * [Technologies Used](#technologies-used)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [License](#license)
+  * [Disclaimer](#disclaimer)
 
-  * [Features](https://www.google.com/search?q=%23features)
-  * [Motivation](https://www.google.com/search?q=%23motivation)
-  * [Technologies Used](https://www.google.com/search?q=%23technologies-used)
-  * [Installation](https://www.google.com/search?q=%23installation)
-  * [Usage](https://www.google.com/search?q=%23usage)
-  * [Contributing](https://www.google.com/search?q=%23contributing)
-  * [License](https://www.google.com/search?q=%23license)
-  * [Disclaimer](https://www.google.com/search?q=%23disclaimer)
 
 -----
 
