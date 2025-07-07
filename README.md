@@ -86,7 +86,7 @@ Pacers (111) vs Thunder (110)
 
 ## Contributing
 
-Contributions are welcome\! If you have suggestions for improvements, new features, or bug fixes, please open an issue or submit a pull request , you can also reach out via email at rseyednozadi@gmai.com.
+Contributions are welcome\! If you have suggestions for improvements, new features, or bug fixes, please open an issue or submit a pull request , you can also reach out via email at rseyednozadi@gmail.com.
 
 1.  Fork the repository.
 2.  Create a new branch: `git checkout -b feature/your-feature-name`
